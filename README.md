@@ -91,15 +91,15 @@ streamlit run visuals/dashboard.py
 
 # Example Workflow
 
-## Load and preprocess the CMAPSS dataset.
+### 1. Load and preprocess the CMAPSS dataset.
 
-## Train a baseline model (e.g., Random Forest or Gradient Boosting) to predict RUL.
+### 2. Train a baseline model (e.g., Random Forest or Gradient Boosting) to predict RUL.
 
-## Experiment with advanced models like LSTMs or GRUs for time-series analysis.
+### 3. Experiment with advanced models like LSTMs or GRUs for time-series analysis.
 
-## Evaluate the model's performance using metrics like RMSE or MAE.
+### 4. Evaluate the model's performance using metrics like RMSE or MAE.
 
-## Deploy the model using Flask or Streamlit for real-time predictions.
+### 4. Deploy the model using Flask or Streamlit for real-time predictions.
 
 # Key Features to Implement
 
