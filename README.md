@@ -53,7 +53,7 @@ Libraries specified in requirements.txt
 
 Clone the repository:
 
-git clone https://github.com/yourusername/PrognosticEngine.git
+git clone https://github.com/AryanVarmora/PrognosticEngine.git
 cd PrognosticEngine
 
 Set up a virtual environment:
